@@ -2,5 +2,6 @@
 
 # Just trying to create a tuple that represents the chromatic scale
 
-chromScale(range(11))
-    for i in range (A, A+/B-, B, C, C+/D-, D, D+/E-, E, F, F+/G-, G, G+/A-)
+chromScale = (A, A+/B-, B, C, C+/D-, D, D+/E-, E, F, F+/G-, G, G+/A-)
+    for i in range(len(chromScale))
+    print(n, chromScale[n])
