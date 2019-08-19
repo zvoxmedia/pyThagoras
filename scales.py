@@ -16,5 +16,5 @@ chromScale = (
 	'G', 
 	'G+/A-'
 	)
-for i in range(len(chromScale)):
-    print(chromScale[0:11])
+
+print(chromScale[0:11])
