@@ -4,17 +4,17 @@
 
 chromScale = (
 	'A', 
-	'A\+\/B\-', 
+	'A+/B-', 
 	'B', 
 	'C', 
-	'C\+\/D\-', 
+	'C+/D-', 
 	'D', 
-	'D\+\/E\-', 
+	'D+/E-', 
 	'E', 
 	'F', 
-	'F\+\/G\-', 
+	'F+/G-', 
 	'G', 
-	'G\+\/A\-'
+	'G+/A-'
 	)
 for i in range(len(chromScale)):
-    print(n, chromScale[n])
+    print(chromScale[0:11])
