@@ -16,5 +16,5 @@ chromScale = (
 	'G', 
 	'G\+\/A\-'
 	)
-for i in range(chromScale):
+for i in range(len(chromScale)):
     print(n, chromScale[n])
